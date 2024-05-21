@@ -1,10 +1,10 @@
+Link to UAVArenaCPNF : https://felipeam96.github.io/UAVArenaCNPF/
+
 ## About
 
-This repository is a part of the [ODM](https://github.com/OpenDroneMap) project and exists to give the user a comparision  of drone mapping software results compared side by side. feel free to compare the results between ODM, Drone Deploy, MetaShape, DroneMapper and Pix4D.
+This repository exists to give the user a comparision  of drone mapping software results compared side by side.
 
 Currently, comparision consists of Orthophoto and DSM only. 
-
-![image](https://user-images.githubusercontent.com/1951843/79274054-f7156480-7e71-11ea-8a67-c78c1ae42ec4.png)
 
 ## Methodology
 
@@ -19,6 +19,6 @@ If you want to add a new dataset, simply add the relevant folders in the `data` 
 ## Disclaimer
 
 While this is a neutral zone for evaluating the results of drone mapping software and we have performed processing following 
-the same standards / quality settings for all solutions, this application was developed by [ODM](https://github.com/OpenDroneMap/ODM) contributors.
+the same standards / quality settings for all solutions.
 
-If you found a problem in one of the software results, submit a PR. 
+This application was developed by [ODM](https://github.com/OpenDroneMap/ODM) contributors.
